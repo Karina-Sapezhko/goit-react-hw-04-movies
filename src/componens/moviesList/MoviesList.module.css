@@ -1,0 +1,14 @@
+.item {
+  margin: 10px 0;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.1;
+}
+.ItemLink {
+  text-decoration: none;
+  color: black;
+}
+
+.ItemLink:hover {
+  color: firebrick;
+}

@@ -1,0 +1,13 @@
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+img {
+  display: block;
+}
+
+#root {
+  width: 1200px;
+  margin: 0 auto;
+}

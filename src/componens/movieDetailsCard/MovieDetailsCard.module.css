@@ -1,0 +1,14 @@
+.BoxCard {
+  display: flex;
+}
+
+.BoxInfo {
+  margin-left: 100px;
+}
+
+.Score {
+  background-color: firebrick;
+  color: #fff;
+  border-radius: 3px;
+  padding: 0 10px;
+}
